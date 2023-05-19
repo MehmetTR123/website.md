@@ -1,5 +1,5 @@
-# Temel web sitesi
-temel web sitesi projesi
+# Temel Restorant Web Sitesi projesi 
+ 
 # Motivasyon
 Kariyerimi geliştirmek için ilk websitemi bir grup ile oluşturarak kariyer
 planlamanızın erken bir adımı şimdi başlamış oldum 
